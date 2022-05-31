@@ -1,12 +1,10 @@
 # Hey , this is us 👋 
 
-<!--
+this organisation made up of two people ([@tot0p](https://www.github.com/tot0p),[@mkarten](https://www.github.com/mkarten)).
 
-**Here are some ideas to get you started:**
+the goal is to share the projects we have in common.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Projects
+
+| Name                                                               | stars                                                                 | forks                                                                  | issues                                                                  | Pull Requests                                                             |
+| :--------                                                          | :-------------------------------------------------------------------- | :--------------------------------------------------------------------- | :---------------------------------------------------------------------  |  :--------------------------------------------------------------------    |
